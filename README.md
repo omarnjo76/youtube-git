@@ -2,4 +2,4 @@
 
 Hola estosy aprendiendo y soy Omar
 
-Agregando más contenido al _README.md_
+Agregando otro más contenido al _README.md_

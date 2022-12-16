@@ -1,0 +1,104 @@
+commit 0a87184353de3f89112d4471150dfc6f04411aab
+Author: Omar A. Naranjo <omarnjo@hotmail.com>
+Date:   Wed Dec 14 16:31:57 2022 -0600
+
+    Agregando dos parrafos
+
+commit ca5511fbfd2ff19be2392ee169df68c29162c8d7
+Merge: 2e204a0 4d9fc9f
+Author: Omar A. Naranjo <omarnjo@hotmail.com>
+Date:   Wed Dec 14 16:29:29 2022 -0600
+
+    Resolviendo conflicto eno estaciones del año y fechas de inicio
+
+commit 2e204a073fdb89d7ca4a4679b7063f63cd411512
+Author: Omar A. Naranjo <omarnjo@hotmail.com>
+Date:   Wed Dec 14 16:01:16 2022 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 4d9fc9fc865e02c367fb20a1e20154f2eac576be
+Author: Omar A. Naranjo <omarnjo@hotmail.com>
+Date:   Wed Dec 14 16:01:16 2022 -0600
+
+    Agregando las estaciones del año
+
+commit 157c6b58dc160e37fc77faa811c2604602027e39
+Merge: b237119 946676d
+Author: Omar A. Naranjo <omarnjo@hotmail.com>
+Date:   Wed Dec 14 15:52:36 2022 -0600
+
+    Resolviendo conflito merge main/html en el documento index.html
+
+commit 946676d5f0eae4800aff08e9185be8435af5630d
+Author: Omar A. Naranjo <omarnjo@hotmail.com>
+Date:   Wed Dec 14 14:33:11 2022 -0600
+
+    Agregando index.js al index.html
+
+commit b23711972aa74228ff3b2c83cec343981dd10d0f
+Author: Omar A. Naranjo <omarnjo@hotmail.com>
+Date:   Wed Dec 14 14:24:17 2022 -0600
+
+    Agregando style.css al index.html
+
+commit f0a3d726bb76233f54b91a3552b90a0846d2deed
+Merge: b5b422d 355229d
+Author: Omar A. Naranjo <omarnjo@hotmail.com>
+Date:   Wed Dec 14 14:01:41 2022 -0600
+
+    Merge branch 'js'
+
+commit 355229d5c7dcb25a15bf78b8a06ea250cee3ccac
+Author: Omar A. Naranjo <omarnjo@hotmail.com>
+Date:   Sun Dec 11 23:53:12 2022 -0600
+
+    Creando index.js
+
+commit b5b422dfd2d8746c02710f8fc8bf032fcb466d70
+Author: Omar A. Naranjo <omarnjo@hotmail.com>
+Date:   Sun Dec 11 23:45:16 2022 -0600
+
+    Creando style.css
+
+commit 31a883d15165f1100779f9173bfbce71205e4f8c
+Author: Omar A. Naranjo <omarnjo@hotmail.com>
+Date:   Sun Dec 11 23:34:08 2022 -0600
+
+    Creando index.html
+
+commit d2d16794de3c9705cfb5f96f0c91954e579e55d8
+Author: Omar A. Naranjo <omarnjo@hotmail.com>
+Date:   Sun Dec 11 22:48:58 2022 -0600
+
+    Ignorando archivos .exe
+
+commit cb97b8e4325a639c8689a9030a99075e46c4cbbb
+Author: omarnjo76 <88523150+omarnjo76@users.noreply.github.com>
+Date:   Sun Dec 11 13:09:05 2022 -0600
+
+    Creando licencia del repositorio
+
+commit 57bbfe86444318da3cfbb4f5ef3f57fc32dd271b
+Author: Omar A. Naranjo <omarnjo@hotmail.com>
+Date:   Sun Dec 11 13:03:19 2022 -0600
+
+    Otro contenido al README
+
+commit 7407867c64515faa6f5bb9d9515095f276797be1
+Author: Omar A. Naranjo <omarnjo@hotmail.com>
+Date:   Sun Dec 11 12:58:57 2022 -0600
+
+    Agregando mas contenido al README
+
+commit d490c5f320b0db65a5008c7127e42f8257cf013e
+Author: Omar A. Naranjo <omarnjo@hotmail.com>
+Date:   Sun Dec 11 12:49:01 2022 -0600
+
+    Agregando contenido inicial al README
+
+commit f3ddc7864491722d698096b4d53b92edc232082e
+Author: Omar A. Naranjo <omarnjo@hotmail.com>
+Date:   Sun Dec 11 12:44:08 2022 -0600
+
+    Primer commit
